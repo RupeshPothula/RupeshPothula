@@ -67,6 +67,9 @@
 - Capture The Flag (CTFs)
 
 ---
+<a href="https://tryhackme.com/p/pothularupesh">
+<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="TryHackMe">
+</a>
 
 ## 📫 Connect With Me
 
