@@ -69,13 +69,16 @@
 ---
 ## 🛡️ Cybersecurity Practice
 
-- 🔐 Hands-on learning through **TryHackMe** labs and CTFs
-- 🌐 Practicing Web Application Security, Network Security, Enumeration, and Privilege Escalation
-- 📚 Continuously improving practical cybersecurity skills
+Exploring cybersecurity through hands-on labs, real-world challenges, and personal projects.
+
+- 🧩 TryHackMe
+- 🌐 PortSwigger Web Security Academy
+- 🏁 Capture The Flag (CTFs)
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pothularupesh)
 
 🔗 **Profile:** https://tryhackme.com/p/pothularupesh
+
 ---
 
 ## 📫 Connect With Me
