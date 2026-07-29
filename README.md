@@ -67,9 +67,16 @@
 - Capture The Flag (CTFs)
 
 ---
-<a href="https://tryhackme.com/p/pothularupesh">
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="TryHackMe">
-</a>
+## 🛡️ Cybersecurity Practice
+
+- 🔐 Hands-on learning through **TryHackMe** labs and CTFs
+- 🌐 Practicing Web Application Security, Network Security, Enumeration, and Privilege Escalation
+- 📚 Continuously improving practical cybersecurity skills
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pothularupesh)
+
+🔗 **Profile:** https://tryhackme.com/p/pothularupesh
+---
 
 ## 📫 Connect With Me
 
