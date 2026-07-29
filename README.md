@@ -26,7 +26,6 @@
 ### Cybersecurity
 `VAPT` `OWASP Top 10` `Web Security`
 `Network Security`
-`Email Security (SPF • DKIM • DMARC)`
 `Linux`
 `OSINT`
 
