@@ -1,4 +1,4 @@
-# Hi there, I'm Rupesh Pothula
+# Hi there, I'm Rupesh Pothula 👋
 
 B.Tech Information Technology Student at Chaitanya Bharathi Institute of Technology (CBIT)
 
