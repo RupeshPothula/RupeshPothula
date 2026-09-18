@@ -1,70 +1,42 @@
-## Hi there 👋 I'm Rupesh Pothula
+# Hi there, I'm Rupesh Pothula
 
-🎓 B.Tech Information Technology Student at Chaitanya Bharathi Institute of Technology (CBIT)
+B.Tech Information Technology Student at Chaitanya Bharathi Institute of Technology (CBIT)
 
-🔐 Passionate about Cybersecurity with a strong interest in Secure Software Development. I enjoy exploring how security and AI can be combined to build practical solutions for real-world problems.
+Interested in Cybersecurity, Software Development, and AI. I enjoy building practical applications, exploring how systems work, and applying security principles to develop reliable and secure software solutions.
 
----
+## Featured Projects
 
-## 🚀 About Me
+### CyberRakshak
 
-- 🔭 Building projects in Cybersecurity and Software Development
-- 🌱 Currently learning Cloud Security, AI Security, and Advanced Web Security
-- 🎯 Interested in VAPT, Web Application Security, Cloud Security, and AI-powered Security Solutions
-- 💡 Always learning through hands-on labs, CTFs, and personal projects
+An AI-powered cybersecurity assistant designed to provide practical security guidance and improve cybersecurity awareness. The project combines a React.js frontend with a FastAPI backend and integrates LLM capabilities to provide interactive assistance for cybersecurity-related queries and scenarios.
 
----
+The application is designed around the idea of making security concepts easier to understand while providing useful guidance for common cybersecurity situations.
 
-## 💻 Tech Stack
+**Tech:** FastAPI, React.js, Python, Firebase, LLM APIs
 
-### Languages
-`Python` `JavaScript` `SQL` `HTML` `CSS`
+### Email Security Analyzer
 
-### Frameworks & Technologies
-`React` `Node.js` `Express.js` `Flask` `REST APIs`
+A security analysis platform for investigating email messages and identifying potential indicators of spoofing and malicious activity. The system processes `.eml` files and analyzes email headers, authentication mechanisms, URLs, and attachments.
 
-### Cybersecurity
-`VAPT` `OWASP Top 10` `Web Security`
-`Network Security`
-`Linux`
-`OSINT`
+It performs SPF, DKIM, and DMARC analysis and combines the results with additional security checks to provide an overall assessment of the email. The project is built using a modular analysis architecture with FastAPI as the backend.
 
-### Tools
-`Burp Suite`
-`Nmap`
-`Wireshark`
-`Metasploit`
-`OWASP ZAP`
-`Subfinder`
-`FFUF`
-`WhatWeb`
-`Gobuster`
-`Git`
-`GitHub`
-`Postman`
+**Tech:** Python, FastAPI, SPF, DKIM, DMARC, Email Analysis
 
-### Databases
-`MySQL`
-`MongoDB`
+## What I Work With
 
----
+**Programming:** Python, Java, JavaScript, SQL
 
-## 📂 Featured Projects
+**Development:** React.js, Node.js, Express.js, FastAPI, REST APIs
 
-🔹 **CyberRakshak**
-> AI-powered cybersecurity assistant for security awareness and guidance.
+**Databases:** MySQL, MongoDB
 
-🔹 **Email Spoofing Detection**
-> Detects spoofed emails using SPF, DKIM, and DMARC analysis.
+**Cybersecurity:** Web Security, OWASP Top 10, VAPT, Network Security, Linux
 
----
+**Networking:** TCP/IP, DNS, DHCP, VLANs, Routing & Switching
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
-- Cloud Security
-- Digital Forensics
-- Secure Software Development
-- Capture The Flag (CTFs)
+Cloud Security • AI Security • Advanced Web Security • Secure Software Development
 
 ---
 ## 🛡️ Cybersecurity Practice
@@ -92,4 +64,3 @@ Exploring cybersecurity through hands-on labs, real-world challenges, and person
 
 ---
 
-> "Security isn't just about finding vulnerabilities—it's about building systems that are secure by design.
