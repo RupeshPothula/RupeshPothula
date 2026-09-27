@@ -52,7 +52,6 @@ Exploring cybersecurity through hands-on labs, real-world challenges, and person
 🔗 **Profile:** https://tryhackme.com/p/pothularupesh
 
 
-🔗 **OverTheWire CTF:** https://github.com/RupeshPothula/OverTheWire-CTF
 
 ---
 
